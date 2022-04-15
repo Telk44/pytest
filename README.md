@@ -13,6 +13,6 @@ pipenv install
 `pipenv run flask run`
 
 
-# Html report
+# Html report with pytest-html
 
-pytest --html=report.html
+pytest --html=report.html 
