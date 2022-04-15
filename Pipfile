@@ -4,6 +4,10 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pytest = "*"
+pytest-html = "*"
+flask = "*"
+pytest-mock = "*"
 
 [dev-packages]
 
