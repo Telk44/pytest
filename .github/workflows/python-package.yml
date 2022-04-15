@@ -5,9 +5,9 @@ name: Python package
 
 on:
   push:
-    branches: [lansonneur_kristell]
+    branches: [master]
   pull_request:
-    branches: [lansonneur_kristell]
+    branches: [master]
 
 permissions:
   contents: read
